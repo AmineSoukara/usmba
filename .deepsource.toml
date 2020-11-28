@@ -1,0 +1,30 @@
+version = 1
+
+[[analyzers]]
+name = "ruby"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  style_guide = "standard"
+  dialect = "typescript"
+  plugins = [
+    "meteor",
+    "react",
+    "angularjs",
+    "vue",
+    "angular",
+    "ember"
+  ]
+  environment = [
+    "jquery",
+    "jest",
+    "jasmine",
+    "browser",
+    "mongo",
+    "mocha",
+    "nodejs"
+  ]
