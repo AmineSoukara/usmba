@@ -30,7 +30,7 @@ comments: true
      
 That's all.
 
-## Preview
+## Preview 🤖
 
 {% capture images %}
 	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
